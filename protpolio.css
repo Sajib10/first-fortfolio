@@ -1,0 +1,52 @@
+.colaring{
+    color: orange;
+}
+    h2{
+    font-size: 60px;
+    
+    }
+    h2{
+        font-size: 40px;
+    }
+    .flaxi{
+        display: flex;
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+    }
+    .same  img{
+        width: 80%;
+        margin-left: 200px;
+       
+        
+    
+       
+
+    }
+    .same{
+        width: 50%;
+        margin-left: 60px;
+        display: inline;
+    }
+.man{
+    font-size: 20px;
+}
+.soto{
+    text-align: justify;
+    margin-bottom: 30px;
+
+}
+.light{
+    text-decoration: none; 
+background-image: linear-gradient(orange);
+background-color: rgb(238, 73, 13);
+padding: 10px 40px;
+border-radius: 5px;
+color: white;
+}
+.akto{
+    margin-top: 10px;
+}
+body{
+    margin: 0px;
+}
+
