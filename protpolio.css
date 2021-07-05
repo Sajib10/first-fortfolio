@@ -37,7 +37,7 @@
 }
 .light{
     text-decoration: none; 
-background-image: linear-gradient(orange);
+background-image: linear-gradient(orange, red);
 background-color: rgb(238, 73, 13);
 padding: 10px 40px;
 border-radius: 5px;
@@ -49,4 +49,54 @@ color: white;
 body{
     margin: 0px;
 }
+
+.experiance-content{
+    display: flex;
+    margin-bottom: 30px;
+}
+.experiance-item{
+    width: 40%;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+    box-shadow:10px 10px 30px black;
+    border-radius:5px;
+
+
+
+
+}
+h4{
+    color: orange;
+
+}
+#border-item{
+    border-left:10px solid;
+    border-image:linear-gradient(rgb(236, 194, 5), rgb(219, 71, 7));
+    border-image-slice:1;
+    
+
+}
+#border{
+    border-left: 10px solid;
+    border-image:linear-gradient(orange,red);
+    border-image-slice:1;
+    
+    
+}
+.experience-fast{
+    
+    margin-left: 50px;}
+    footer{
+        font-size: 10px;
+
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .shadow-aline{
+        text-align: justify;
+        margin-right: 20px;
+    }
+    
 
